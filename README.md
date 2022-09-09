@@ -1,2 +1,2 @@
-# PHP-API-Example
+## PHPAPI Example
 JSON Response, Filter Response Data
